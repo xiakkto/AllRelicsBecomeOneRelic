@@ -1,0 +1,6 @@
+{
+  "target_relic_id": "CIRCLET",
+  "replace_starter_relics": true,
+  "log_every_replacement": false,
+  "preserve_relic_producers": false
+}

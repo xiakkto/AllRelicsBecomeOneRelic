@@ -1,0 +1,7 @@
+{
+  "pck_name": "AllRelicsBecomeOneRelic",
+  "name": "All Relics Become One Relic",
+  "author": "Local",
+  "description": "Whenever you obtain a relic, it is replaced with the configured relic.",
+  "version": "0.1.0"
+}
